@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.jekbp.cicd</groupId>
-  <artifactId>jekbp-cicd-poc</artifactId>
+  <artifactId>ci-cd</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
